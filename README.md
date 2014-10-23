@@ -138,3 +138,27 @@ int main()
 * * *
 - - -
 ---
+***
+###使用HTML - 表格 
+<table border="0" cellpadding="3" cellspacing="1" width="100%" align="center" style="background-color: #b9d8f3;">
+    <tr>
+      <th>学号</th>
+      <th>姓名</th>
+      <th>班级</th>
+    </tr>
+    <tr>
+      <td>1101</td>
+      <td>王二</td>
+      <td>101-1</td>
+    </tr>
+    <tr>
+      <td>1223</td>
+      <td>李三</td>
+      <td>101-2</td>
+    </tr>
+    <tr>
+      <td>1312</td>
+      <td>刘四</td>
+      <td>101-3</td>
+    </tr>
+</table>
