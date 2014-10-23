@@ -2,7 +2,9 @@ hello-world
 ===========
 
 本项目是为本人熟悉markdown语法所用，对游客无实际作用。  
-语法参考自：[Markdown Cheat Sheet](http://www.afewords.com/blog/50d5b1813725170f8c69d2dd)
+语法参考自：  
+[Markdown Cheat Sheet](http://www.afewords.com/blog/50d5b1813725170f8c69d2dd)  
+[Markdown官方文档](http://daringfireball.net/projects/markdown/syntax)
 
 My "cnblogs" blog:
 [cnblogs-Freecode#](http://www.cnblogs.com/yym2013/)
