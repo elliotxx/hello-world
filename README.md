@@ -89,3 +89,52 @@ $$\sum_{i=0}^n{i^2}$$
 
 ***
 
+列表嵌套
+
+1. 1 level list 1
+  + 2 level list 1
+    - 3 level list 1
+    - 3 level list 2
+    - 3 level list 3
+  + 2 level list 2
+    - 3 level list 1
+    - 3 level list 2
+    - 3 level list 3
+1. 1 level list 2
+  1. 2 level list 1
+    1. 3 level list 1
+    2. 3 level list 2
+    3. 3 level list 3
+  1. 2 level list 2
+    1. 3 level list 1
+    1. 3 level list 2
+    1. 3 level list 3
+
+***
+块引用  
+下面是一首诗
+>悯农  
+>作者：李绅  
+  >>春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。  
+  >>锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。
+    >>>第一首诗一开头，就以“一粒粟”化为“万颗子”具体而形象地描绘了丰收，用“种”和“收”赞美了农民的劳动。第三句再推而广之，展现出四海之内，荒地变良田，这和前两句联起来，便构成了到处硕果累累，遍地“黄金”的生动景象。
+>  
+>
+
+***
+代码块
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"Hello world!"<<endl;
+  return 0;
+}
+```
+
+水平线
+***
+* * *
+- - -
+---
